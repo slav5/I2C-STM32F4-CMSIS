@@ -1,0 +1,20 @@
+{
+    "name": "I2C-STM32F4-CMSIS",
+    "version": "1.0.0",
+    "description": "library for I2C communication for the STM32F4 microcontrollers",
+    "keywords": "I2C, STM32F4",
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "authors": [
+        {
+            "name": "Svyatoslav Petyukevich",
+            "email": "slav.glav@mail.ru",
+            "maintainer": true
+        }
+    ],
+    "license": "MIT",
+    "frameworks": "CMSIS",
+    "platforms": "ststm32"
+}
