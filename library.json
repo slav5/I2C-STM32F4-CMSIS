@@ -16,5 +16,8 @@
     ],
     "license": "MIT",
     "frameworks": "CMSIS",
-    "platforms": "ststm32"
+    "platforms": "ststm32",
+    "dependencies": {
+        "svyatoslavpetyukevich/Timeout-STM32F4-CMSIS": "^1.0.0"
+    }
 }

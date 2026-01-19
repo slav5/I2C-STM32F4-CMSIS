@@ -29,7 +29,7 @@ This is the library for I2C communication protocol. This library provides low-le
 
 ## Install
 
-To install this lib you need to copy I2C directory to the directory of your project and add it to the project. In C file, where you gonna use this lib, include this library by writting #include "I2C.h".
+To install this lib you need to copy I2C directory to the directory of your project and add it to the project. `Note that the I2C library depends on the Timeout library: https://github.com/slav5/Timeout-STM32F4-CMSIS`. In C file, where you gonna use this lib, include this library by writting #include "I2C.h".
 
 
 ## Commands
