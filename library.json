@@ -5,7 +5,7 @@
     "keywords": "I2C, STM32F4",
     "repository": {
         "type": "git",
-        "url": ""
+        "url": "https://github.com/slav5/I2C-STM32F4-CMSIS"
     },
     "authors": [
         {
