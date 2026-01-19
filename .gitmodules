@@ -1,0 +1,3 @@
+[submodule "examples/USART"]
+	path = examples/USART
+	url = git@github.com:slav5/USART-STM32F4-CMSIS.git
