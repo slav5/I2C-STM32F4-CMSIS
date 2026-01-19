@@ -12,9 +12,11 @@
  *
  * @note This example uses 50 MHz APB1 clock. Adjust according to your setup.
  *       For SHT21 sensor, use address 0x80 (0x40 shifted left).
+ *       WARNING!!! this example use USART library, GitHub: https://github.com/slav5/USART-STM32F4-CMSIS#
  */
 
 #include "I2C.h"
+// https://github.com/slav5/USART-STM32F4-CMSIS#
 #include "USART.h"
 #include <stdio.h>
 #include <string.h>
